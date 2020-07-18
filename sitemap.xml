@@ -3,11 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/song-2020-strawberry/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mark-bolda/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/oleg-daugovish/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rachael-goodhue/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yujing-song/</loc>
+    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
@@ -16,14 +58,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>
