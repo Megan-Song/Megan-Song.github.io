@@ -3,73 +3,109 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>https://megan-song.github.io/tag/dynamic-pricing/</loc>
+    <lastmod>2020-07-18T14:00:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/project/dp/</loc>
+    <lastmod>2020-07-18T14:00:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/</loc>
+    <lastmod>2020-07-18T14:00:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/project/</loc>
+    <lastmod>2020-07-18T14:00:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/tags/</loc>
+    <lastmod>2020-07-18T14:00:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/tag/relational-contracting/</loc>
+    <lastmod>2020-07-18T14:00:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/project/rc/</loc>
+    <lastmod>2020-07-18T14:00:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/publication-type/1/</loc>
+    <lastmod>2020-07-10T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/authors/</loc>
+    <lastmod>2020-07-10T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/publication/song-2020-rc/</loc>
+    <lastmod>2020-07-10T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/publication_types/</loc>
+    <lastmod>2020-07-10T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/publication/</loc>
+    <lastmod>2020-07-10T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/author/yujing-song/</loc>
+    <lastmod>2020-07-10T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megan-song.github.io/publication-type/2/</loc>
     <lastmod>2020-06-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://megan-song.github.io/publication/song-2020-strawberry/</loc>
     <lastmod>2020-06-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://megan-song.github.io/author/mark-bolda/</loc>
     <lastmod>2020-06-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/song-2020-strawberry/</loc>
+    <loc>https://megan-song.github.io/author/oleg-daugovish/</loc>
     <lastmod>2020-06-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/mark-bolda/</loc>
+    <loc>https://megan-song.github.io/author/rachael-goodhue/</loc>
     <lastmod>2020-06-01T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/oleg-daugovish/</loc>
-    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+    <loc>https://megan-song.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+    <loc>https://megan-song.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
+    <loc>https://megan-song.github.io/talk/</loc>
   </url>
   
   <url>
-    <loc>/author/rachael-goodhue/</loc>
-    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yujing-song/</loc>
-    <lastmod>2020-06-01T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/yujingmegan-song/</loc>
+    <loc>https://megan-song.github.io/author/yujingmegan-song/</loc>
   </url>
   
 </urlset>
